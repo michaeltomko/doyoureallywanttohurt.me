@@ -6,14 +6,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Lanyon
-tagline:          'A Jekyll theme'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://lanyon.getpoole.com
+title:            doyoureallywanttohurt.me
+tagline:          'by Michael Tomko'
+description:      'Real talk from a husband and soon-to-be-father trying to keep his head above water.<br><a href="http://twitter.com/michaeltomko" target="_blank">@michaeltomko</a>'
+url:              http://doyoureallywanttohurt.me
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Michael Tomko'
+  url:            https://twitter.com/michaeltomko
 
 paginate:         5
 
