@@ -3,28 +3,19 @@ layout: page
 title: About
 ---
 
+For me, herein lies an opportunity. These pages serve as an outlet for me to catalog, in written form, the shenanigans that take place in my home. I desperately need a place to talk about the things that I/we experience from day to day and since there are currently no support groups for thirty-something vintage-loving semi-hipster band-guy software-developing soon-to-be-first-time-father foodies, I figured that I would at least get the ball rolling.
+
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+ <strong>Notice:</strong> If you fear honesty and mild-to-medium levels of profanity, then you are probably in the wrong place. Happy reading!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Follow
+**@michaeltomko** pretty much everywhere… [Twitter](http://twitter.com/michaeltomko) / [Instagram](http://instagram.com/michaeltomko) / [GitHub](http://github.com/michaeltomko)
 
-There are currently two themes built on Poole:
+## Support
+The following links will take you to products or services that I love and personally recommend. If you should find yourself in need of any of what I have listed below, then clicking on these links will provide me with enough monitary compensation to help me keep my iced tea habit off of the books. Gotta keep me caffeinated.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+* [Spotify Premium](http://spotify.extole.com/v2/share/5958037556756486116)
+* [Web Hosting by Digital Ocean](https://www.digitalocean.com/?refcode=2022ce541e64)
+* [Domains from Hover](https://hover.com/lO64iUFh)
+* [Dollar Shave Club](http://shaved.by/E3B2)
